@@ -1,0 +1,5 @@
+version account-id interface-id      srcaddr         dstaddr        srcport dstport protocol packets bytes start      end        action log-status
+2       301491567872 eni-0088100c..  3.94.91.31      10.0.1.105     123     40328    17       1       76    1750419182 1750419242 ACCEPT OK
+2       301491567872 eni-0088100c..  10.0.1.105      54.210.225.137 57388   123      17       1       76    1750419182 1750419242 ACCEPT OK
+2       301491567872 eni-0088100c..  10.0.1.105      54.81.127.33   39579   123      17       1       76    1750419182 1750419242 ACCEPT OK
+2       301491567872 eni-0088100c..  36.50.135.225   10.0.1.105     59124   34014    6        1       40    1750419182 1750419242 REJECT OK
